@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.developmentalenvironment.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\esdla\\Desktop\\Rachel\\Developmental-Environment\\Developmental Environment\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Developmental Environment [Testing]"
+        }
+      }
+    }
+  ]
+}
